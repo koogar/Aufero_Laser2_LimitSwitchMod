@@ -27,3 +27,11 @@ Laser Fly Lead Connector
 Laser Module Lead Connector
 ---------------------------
 JST, XH Female Connector, 2.5mm Pitch, 3 Way, 1 Row ???
+
+
+Limit Microswitch
+-----------------
+2x  Roller Microswitch KW12-3 or Omron SS-5GL2
+
+4x M2 Socket Head Screws
+4x M2 Nuts
