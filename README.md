@@ -1,4 +1,4 @@
- ![](https://github.com/koogar/Aufero_Laser2_LimitSwitchMod/blob/main/Images/Aufero%20Laser%202.jpg)
+ ![](https://github.com/koogar/Aufero_Laser2_LimitSwitchMod/blob/main/Images/Aufero_Laser2.jpg)
 
 # Aufero_Laser2_LimitSwitchMod
 Aufero Laser2 Limit Switch Upgrade
